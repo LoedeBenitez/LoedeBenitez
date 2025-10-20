@@ -2,8 +2,10 @@
 
 # Heyo! Labubu
 
-![vibe-check](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dsbzZkeXEybW4ycTZhbWZqMDh4MGsxYW10eGczcmkzZTkwYXo3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dsbzZkeXEybW4ycTZhbWZqMDh4MGsxYW10eGczcmkzZTkwYXo3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dsbzZkeXEybW4ycTZhbWZqMDh4MGsxYW10eGczcmkzZTkwYXo3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EH710AfxjA45j1eios/giphy.gif" width="250" />
+</p>
 ---
 
 ### 😎 About Me
