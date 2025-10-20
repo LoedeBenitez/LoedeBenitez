@@ -1,6 +1,6 @@
 <!-- 💫 Loede's README of Chaos and Creativity 💫 -->
 
-# Heyo! 👋 Welcome to my GitHub playground 🧩
+# Heyo! Labubu
 
 ![vibe-check](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dsbzZkeXEybW4ycTZhbWZqMDh4MGsxYW10eGczcmkzZTkwYXo3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif)
 
